@@ -2,4 +2,5 @@ first myfile command
 add myfile command
 commit インデックスの状態を記録する
 change myfile text
+use develop branch
 
