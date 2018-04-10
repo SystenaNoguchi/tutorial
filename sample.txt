@@ -1,2 +1,4 @@
 first sample commit
 add form clone
+pullリモートリポジトリの内容を取得する
+
